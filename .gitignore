@@ -1,0 +1,9 @@
+.trash
+yarn.lock
+node_modules
+node_modules/
+cache
+cache/
+artifacts
+artifacts/
+.DS_Store
